@@ -1,1 +1,2 @@
-# technical-interview-strategies
+# tech-interview-strategies
+Guide to technical interviews
